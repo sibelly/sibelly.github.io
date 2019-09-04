@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '<sibelly.github.io>'
+  publicPath: '/'
 } 
